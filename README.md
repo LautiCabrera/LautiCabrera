@@ -16,7 +16,9 @@
     :eight_spoked_asterisk: I consider myself a very versatile, interactive, self-taught, introverted and capable person. That is why I am looking for my first professional work experience in the IT world.<br><br>
     </b></p>
 
-## :star: Technologies and tools:
+<div style="float:left">
+
+## 🌠 Technologies and tools:
 
 ### Front-End :milky_way:
 
@@ -41,4 +43,13 @@
     <img title="Postman" alt="Postman" height="60" width="80" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png">
     <img title="Selenium" alt="Selenium" height="60" width="80" src="https://avatars.githubusercontent.com/u/983927?s=200&v=4">
     <img title="JMeter" alt="JMeter" height="60" width="80" src="https://jmeter.apache.org/images/mstile-144x144.png">
+</div>
+</div>
+
+## 🌠 Contact 
+
+<div>
+    <a href="https://www.linkedin.com/in/lautaro-cabrera-fernandez/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
+    <a href = "mailto:lau.cabrera114@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" ></a>
+    <a href = "https://api.whatsapp.com/send/?phone=%2B5492615881975text=Hola+vi+tu+CV+y+me+gustaria+contactarte"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" ></a>
 </div>
