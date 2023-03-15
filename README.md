@@ -71,10 +71,10 @@
 ## 🌠 Contact
 
 <div>
-    <a href="https://www.linkedin.com/in/lautaro-cabrera-fernandez/"><img
+    <a href="https://www.linkedin.com/in/lautaro-cabrera-fernandez/" target="_blank"><img
             src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
-    <a href="mailto:lau.cabrera114@gmail.com"><img 
+    <a href="mailto:lau.cabrera114@gmail.com" target="_blank"><img 
             src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
-    <a href="https://wa.me/5492615881975/?text=Hola+Lautaro,++vi+tu+CV+y+quisiera+contactarte."><img
+    <a href="https://wa.me/5492615881975/?text=Hola+Lautaro,++vi+tu+CV+y+quisiera+contactarte." target="_blank"><img
             src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg"></a>
 </div>
