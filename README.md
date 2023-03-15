@@ -28,7 +28,6 @@
         <br><br>
     </b>
 </p>
-<br>
 <div>
 
 ## 🌠 Technologies and tools:
