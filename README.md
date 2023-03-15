@@ -51,5 +51,5 @@
 <div>
     <a href="https://www.linkedin.com/in/lautaro-cabrera-fernandez/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
     <a href = "mailto:lau.cabrera114@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" ></a>
-    <a href = "https://api.whatsapp.com/send/?phone=%2B5492615881975text=Hola+vi+tu+CV+y+me+gustaria+contactarte"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" ></a>
+    <a href = "https://wa.me/5492615881975/?text=Hola+Lautaro,++vi+tu+CV+y+quisiera+contactarte."><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" ></a>
 </div>
