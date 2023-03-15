@@ -28,14 +28,14 @@
         <br><br>
     </b>
 </p>
+<br>
+<div>
 
-<div style="float:left">
+## 🌠 Technologies and tools:
 
-    ## 🌠 Technologies and tools:
+### Front-End :milky_way:
 
-    ### Front-End :milky_way:
-
-    <div>
+<div>
         <img title="HTML5" alt="HTML" height="60" width="80"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img title="CSS" alt="CSS" height="60" width="80"
@@ -44,20 +44,20 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img title="Angular" alt="Angular" height="60" width="80"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-    </div>
+</div>
 
-    ### Back-End :gear:
+### Back-End :gear:
 
-    <div>
+<div>
         <img title="JAVA" alt="Java" height="60" width="80" style="margin-right:2em;"
             src="https://user-images.githubusercontent.com/99212452/225408256-2aec805f-7c2e-4ea6-93c0-04ce35ffb55f.png">
         <img title="Spring Boot" alt="Spring" height="60" width="80"
             src="https://images.ctfassets.net/gt6dp23g0g38/5DqlQtFKecFlkqQ8YGDT2p/aa945b648f44dd872e9a1b89f7d203ef/springboot.png">
-    </div>
+</div>
 
-    ### Testing :bar_chart:
+### Testing :bar_chart:
 
-    <div>
+<div>
         <img title="Jira" alt="Jira" height="60" width="80" style="margin-right:20px;"
             src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png">
         <img title="Postman" alt="Postman" height="60" width="80"
